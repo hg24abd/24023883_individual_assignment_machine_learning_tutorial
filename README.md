@@ -31,7 +31,7 @@ Before you dive into the code, here’s a quick check on what you need:
 
 2. **Open in Google Colab**
    - You can easily open the Colab notebook by clicking the link below:
-   - [Open `ML_Tutorial.ipynb` in Google Colab](https://colab.research.google.com/github/hg24abd/24023883_individual_assignment_machine_learning_tutorial/blob/main/notebooks/ML_Tutorial.ipynb)
+   - [Open `ML_Tutorial.ipynb` in Google Colab]([https://colab.research.google.com/github/hg24abd/24023883_individual_assignment_machine_learning_tutorial/blob/main/notebooks/ML_Tutorial.ipynb](https://colab.research.google.com/drive/1toVTPcDUarh5SM3pSCS89v4l_zCoQdnV?authuser=2#scrollTo=HdW04qRy2Mcg))
 
 3. **Run the Notebook**
    - Once in Colab, run the cells in order. You’ll get visualizations, model training, and performance evaluations.
