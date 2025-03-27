@@ -1,9 +1,5 @@
 # 24023883_individual_assignment_machine_learning_tutorial
 
-Got it! Here's a more humanized and natural-sounding README for your Colab-based project:
-
----
-
 # Machine Learning Assignment Tutorial
 
 ## Overview
@@ -51,7 +47,3 @@ Before you dive into the code, here’s a quick check on what you need:
 
 ## License
 Feel free to use or modify this code under the MIT License. If you do, credit is appreciated!
-
----
-
-This version sounds more conversational and approachable, while still keeping things clear and organized. It reflects that the project is aimed at being easy to follow and execute, while also emphasizing helpful steps for impressing your professor.
